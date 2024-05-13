@@ -1,7 +1,7 @@
 <h1 align="center">Привет 👋, Я Александр Корытин</h1>
 <h3 align="center">Увлеченный Android разработчик из России</h3>
 
-- 🔭 Сейчас я работаю над смоим проектом [Fittnes_Note]((https://github.com/AlexanderKorytin/My_fitness_note))
+- 🔭 Сейчас я работаю над смоим проектом [Fittnes_Note](https://github.com/AlexanderKorytin/My_fitness_note)
 
 - 👨‍💻 Все мои проекты доступны по адресу [https://github.com/AlexanderKorytin](https://github.com/AlexanderKorytin)
 
